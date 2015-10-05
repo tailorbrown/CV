@@ -72,14 +72,14 @@ Biology 1401-Biology of Plants for Non-Majors: Autumn 2013-Present <br>
 Biology 250L- Botany Lab, Fort Hays State University, Autumn 2009
 
 <b>Professional Development</b></p>
-TEACH (Teaching Effectiveness And Career enHancement) Fellow 2013-2014
+TEACH (Teaching Effectiveness And Career enHancement) Fellow 2013-2014  
 "Program assists Ph.D. students in further developing teaching skills and exploring faculty roles. Program activities include one-on-one consultation, instructor videotaping, comprehensive class feedback, peer observations, project work with a faculty mentor, workshop attendance, and the development of a professional teaching portfolio."-from TEACH program website 
 ([http://www.tlpd.ttu.edu/teach/index2.asp](http://www.tlpd.ttu.edu/teach/index2.asp "http://www.tlpd.ttu.edu/teach/index2.asp")) </p>
 As part of the program attended workshops on improving rapport with students, discipline issues, using technology in classroom and other topics to improve teaching abilities.
 
 <b>Oral Presentations</b> <br>
 
-<b>Waring, E.F.</b> Teaching science to those who don't want to learn it. Presented during the Science Communication ignite session at the 99th meeting of the Ecological Society of America, Sacramento, CA, August 2014<br>
+<b>Waring, E.F.</b> Teaching science to those who don't want to learn it.   Presented during the Science Communication ignite session at the 99th meeting of the Ecological Society of America, Sacramento, CA, August 2014<br>
 
 <b>Waring, E.F.</b>, J. Moore-Kucera, D.W. Schwilk and A.S. Holaday. Differences in nitrogen-use strategies and soil nitrogen availability throughout the growing season in native <i>Carex stricta</i> and invasive <i>Phalaris arundinacea</i>. Presented at the 99th meeting of the Ecological Society of America, Sacramento, CA, August 2014<br>
 
@@ -123,7 +123,7 @@ invasive wetland grasses of central Kansas. Presented at Society of Range Manage
 
 Poster Presentations (*indicates undergraduate researcher)
 
-<b>Waring, E.F.</b> and A.S. Holaday. Competition and nitrogen availability affect nitrogen-use strategies in native and invasive wetland plants. Presented at the 100th Meeting of the Ecological Society of America in Baltimore, MD, August 2015. [http://dx.doi.org/10.6084/m9.figshare.1500792](http://dx.doi.org/10.6084/m9.figshare.1500792 "http://dx.doi.org/10.6084/m9.figshare.1500792")
+<b>Waring, E.F.</b> and A.S. Holaday. Competition and nitrogen availability affect nitrogen-use strategies in native and invasive wetland plants. Presented at the 100th Meeting of the Ecological Society of America in Baltimore, MD, August 2015.   [http://dx.doi.org/10.6084/m9.figshare.1500792](http://dx.doi.org/10.6084/m9.figshare.1500792 "http://dx.doi.org/10.6084/m9.figshare.1500792")
 
 Griffin, C.M.*, <b>E.F. Waring</b>, A.S. Holaday. The effects of soil nitrogen availability on the allocation of nitrogen to leaf processes for an invasive grass, <i>Phalaris arundinacea</i>, and native <i>Carex</i> species. Presented at the 99th Meeting of the Ecological Society of America in Sacramento, CA, August 2014.
 [http://f1000.com/posters/browse/summary/1096701](http://f1000.com/posters/browse/summary/1096701 "http://f1000.com/posters/browse/summary/1096701")
