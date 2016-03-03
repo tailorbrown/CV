@@ -13,9 +13,9 @@ Advisor: Brian R. Maricle<br>
 
 2007: <b>Bachelor of Science in Biology</b>, University of Wisconsin-Milwaukee
 
-<b>Publications</b></p>
+<b>Publications</b> <i>Italics</i> indicate undergraduate authors</p>
 
-Holaday, A.S., D.W. Schwilk, <b>E.F. Waring</b>, H. Guvvala, C.M. Griffin*, O.M. Lewis*. 2015.  Plasticity of nitrogen allocation in the leaves of the invasive wetland grass, Phalaris arundinacea and co-occurring Carex species determines the photosynthetic sensitivity to nitrogen availability. Journal of Plant Physiology. 177:20-29. doi:10.1016/j.jplph.2015.01.008
+Holaday, A.S., D.W. Schwilk, <b>E.F. Waring</b>, H. Guvvala, <i>C.M. Griffin, O.M. Lewis</i>. 2015.  Plasticity of nitrogen allocation in the leaves of the invasive wetland grass, Phalaris arundinacea and co-occurring Carex species determines the photosynthetic sensitivity to nitrogen availability. Journal of Plant Physiology. 177:20-29. doi:10.1016/j.jplph.2015.01.008
 
 <b>Waring, E.F</b>. and D.W. Schwilk. 2014. Plant dieback under exceptional drought driven by
 elevation, not by plant traits, in Big Bend National Park, Texas USA. PeerJ 2:e477 DOI: [http://dx.doi.org/10.7717/peerj.477](http://dx.doi.org/10.7717/peerj.477 "http://dx.doi.org/10.7717/peerj.477")<br>
