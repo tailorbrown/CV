@@ -13,7 +13,8 @@ Advisor: Brian R. Maricle<br>
 
 2007: <b>Bachelor of Science in Biology</b>, University of Wisconsin-Milwaukee
 
-<b>Publications</b> <i>Italics</i> indicate undergraduate authors</p>
+<b>Publications</b> </br>
+<i>Italics</i> indicate undergraduate authors</p>
 
 Holaday, A.S., D.W. Schwilk, <b>E.F. Waring</b>, H. Guvvala, <i>C.M. Griffin, O.M. Lewis</i>. 2015.  Plasticity of nitrogen allocation in the leaves of the invasive wetland grass, Phalaris arundinacea and co-occurring Carex species determines the photosynthetic sensitivity to nitrogen availability. Journal of Plant Physiology. 177:20-29. doi:10.1016/j.jplph.2015.01.008
 
@@ -65,7 +66,7 @@ Autumn 2008-Autumn 2009
 Autumn 2008 – Spring 2009	Sternberg Museum of Natural History, Hays, KS. <br>
 Fall 2007	Research Assistant in Project in Cedarburg Bog for Drs. Jason Mills and Erica Young at the University of Wisconsin-Milwaukee. <br></p>
 
-<b>Class Taught</b>
+<b>Classes Taught</b>
 
 Biology 3306- Plant Biology: Summer 2013, Autumn 2013-2015<br>
 Biology 1401-Biology of Plants for Non-Majors: Autumn 2013-Present <br>
